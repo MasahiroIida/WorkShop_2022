@@ -1,1 +1,1 @@
-SBTRepository
+SpringBootTemplateRepository
