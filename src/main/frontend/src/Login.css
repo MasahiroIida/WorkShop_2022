@@ -8,11 +8,6 @@
   box-shadow: 5px 5px 8px rgba(0, 0, 0, .4);
 }
 
-.administrator {
-  width: 100px;
-  margin: 10px auto;
-}
-
 .errormessage {
   font-size: small;
   color: red;
