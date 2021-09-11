@@ -1,0 +1,11 @@
+body {
+  padding: 0 10px 0 10px;
+  font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

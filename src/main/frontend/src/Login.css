@@ -1,0 +1,19 @@
+.header {
+  background-color: #5c6bc0;
+  color: #fff;
+  width: auto;
+  padding: 0 0 0 5px;
+  margin: 10px auto;
+  border-radius: 3px;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, .4);
+}
+
+.administrator {
+  width: 100px;
+  margin: 10px auto;
+}
+
+.errormessage {
+  font-size: small;
+  color: red;
+}
